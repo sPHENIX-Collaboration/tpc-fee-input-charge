@@ -20,8 +20,16 @@ Here is an example inspection code as following:
 
 See [ReadME.ipynb](https://nbviewer.jupyter.org/github/sPHENIX-Collaboration/tpc-fee-input-charge/blob/master/ReadME.ipynb)
 
-# Example charge input plots
+# Example charge input plots (click figures to enlarge)
 
 Single track: 
 
 ![PadCharge_side0_sector1_layer40](PadCharge_SingleTrack/PadCharge_side0_sector1_layer40.json.ChargeTimeBin.png)
+
+Single 0-4fm central AuAu collision track: 
+
+![PadCharge_side0_sector1_layer33](PadCharge_0-4fm_AuAu/PadCharge_side0_sector1_layer33.json.ChargeTimeBin.png)
+
+Typical higher occupancy scenario with 100kHz collisions: 
+
+![PadCharge_side0_sector1_layer40](PadCharge_0-4fm_200kHz_AuAu/PadCharge_side0_sector1_layer40.json.ChargeTimeBin.png)
