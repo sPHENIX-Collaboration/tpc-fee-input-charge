@@ -32,4 +32,4 @@ Single 0-4fm central AuAu collision track:
 
 Typical higher occupancy scenario with 100kHz collisions: 
 
-![PadCharge_side0_sector1_layer40](PadCharge_0-4fm_100kHz_AuAu/PadCharge_side0_sector1_layer40.json.ChargeTimeBin.png)
+![PadCharge_side0_sector1_layer40](PadCharge_0-4fm_100kHz_AuAu/PadCharge_side0_sector1_layer24.json.ChargeTimeBin.png)
