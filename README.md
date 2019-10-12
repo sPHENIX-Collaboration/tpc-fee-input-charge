@@ -37,4 +37,4 @@ Typical higher occupancy scenario with 100kHz collisions:
 
 Typical higher occupancy scenario with 200kHz collisions: 
 
-![PadCharge_side0_sector1_layer40](PadCharge_0-4fm_200kHz_AuAu/PadCharge_side0_sector1_layer24.json.ChargeTimeBin.png)
+![PadCharge_side0_sector1_layer40](PadCharge_0-4fm_200kHz_AuAu/PadCharge_side0_sector1_layer29.json.ChargeTimeBin.png)
