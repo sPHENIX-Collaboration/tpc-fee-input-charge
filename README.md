@@ -13,7 +13,7 @@ Three scenarios are simulated:
 * `0-4fm_100kHz_AuAu`: a single central Au+Au collision embedded into 100kHz MB AuAu collision pile ups. This is the typical high multiplicity environment sPHENIX TPC are expected to operate in. Please note the occupancy varys significantly from channel to channel. And the multiplcity would be enven higher in 200kHz Au+Au collsions below. 
 * `0-4fm_200kHz_AuAu`: a single central Au+Au collision embedded into 200kHz MB AuAu collision pile ups. This is the typical highest multiplicity environment sPHENIX TPC are expected to operate in. 
 
-The result are in self-explaintory `JSON` files recording 1-drift window of charge data for each channels separted in ~10ns time bins. Files are separated with TPC side/sector/layers. 
+The result are in self-explaintory `JSON` files recording 1-drift window of charge data for each channels separted in ~10ns time bins. Files are separated with TPC side/sector/layers. Note, layers are shifted by +7 to accomodate the numbering for the inner trackers. 
 
 # Example reading code
 
